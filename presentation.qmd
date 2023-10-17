@@ -5,11 +5,12 @@ format:
     slide-number: true
 ---
 
-## Include a slide deck
+## Slide deck for your presentation
 
-Your report shall be accompanied by a slide deck which tells the data story with visuals in a *narrative structure*^[See *Effective Data Storytelling*, Brent Dykes (2020), Figure 4.3.]. 
+Change this file to become your presentation slide deck. 
 
-![](img/dykes_storyformats.png){fig-align="center"}
+The slide deck which tells the data story with visuals in a *narrative structure*^[See *Effective Data Storytelling*, Brent Dykes (2020), Figure 4.3.]. 
+
 
 ## This deck is made with quarto revealjs
 
@@ -18,12 +19,7 @@ Your report shall be accompanied by a slide deck which tells the data story with
 - Skip through the demo presentation and learn from there. 
 
 
-:::{.aside}
-Using revealjs is not mandatory. 
-:::
-
-
 ## Remove all this content ...
 
 ... and put your content. 
- - 
+ 
